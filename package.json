@@ -1,0 +1,23 @@
+{
+  "name": "football-bracket-matching",
+  "version": "0.1.0",
+  "description": "A library to calculate football brackets based on group stage matches",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "football",
+    "calculator",
+    "bracket"
+  ],
+  "author": "Mads Moi-Aune",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
